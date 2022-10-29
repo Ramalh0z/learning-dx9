@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# build results
+build/
+obj/
+vendor/build/
+
+# visual studio things
+.vs/
+*.sdf
+*.vcxproj
+*.vcxproj.user
+*.sln
