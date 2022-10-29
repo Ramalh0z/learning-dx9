@@ -41,4 +41,5 @@ vendor/build/
 *.sdf
 *.vcxproj
 *.vcxproj.user
+*.vcxproj.filters
 *.sln
